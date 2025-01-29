@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: gabarita,sans-serif;
+}
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom:solid black 1px;
+    
+    
+
+}
+.navbar__s1__title{
+    color: #A435F0;
+}
